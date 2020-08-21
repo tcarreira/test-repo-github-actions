@@ -1,0 +1,16 @@
+name: Test yaml
+link: https://example.com/wooo
+comment: |
+  This is a multiline
+  comment.
+  Deal with it
+
+items:
+  - item:
+      title: title 1
+      link: https://example.com/1
+      
+  - item:
+      title: title 2
+      link: https://example.com/2
+      
